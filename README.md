@@ -1,4 +1,4 @@
-iConference2014
+iConference2014 xml tool
 ===============
 
 This was a small software i have programed for CrossRef batch upload.
