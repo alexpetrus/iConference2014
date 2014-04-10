@@ -12,3 +12,6 @@ to the generated xml.
 
 To create a xml file for your conference please check the given metadata html table
 as example and edit the .properties file in the package with your relevant data.
+
+For more information about the whole project see the documentation about workflow,
+other programs we used and data formats.
